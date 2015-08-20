@@ -6,7 +6,7 @@ This is where we will think about time. Which is hard. Because it can not be den
 
 ## EDTF
 
-The decision to use the Library of Congress' [Extended DateTime Format](http://loc.gov/standards/datetime/) (EDTF)
+The decision to use the Library of Congress' [Extended Date/Time Format](http://loc.gov/standards/datetime/) (EDTF)
 for dates in Who's On First has not been formalize but it seems like a good
 idea.
 
@@ -59,6 +59,10 @@ edtf:cessation="1991-06~/1995-12~"
 wof:name="Bosnia and Herzegovina"
 edtf:inception="1992-03~/1992-04~"
 ```
+
+_Note: As of this writing we do not actually have a WOF records for
+[Yugoslavia](https://en.wikipedia.org/wiki/Yugoslavia). They are included only
+as examples._
 
 ## See also
 
