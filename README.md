@@ -34,8 +34,8 @@ entity or social construct in "popular" culture.
 
 ```
 wof:name="British North America"
-edft:inception=1783~
-edtf:cessation1907
+edft:inception="1783~"
+edtf:cessation="1907"
 ```
 
 _Note: As of this writing we do not actually have a WOF record for [British
@@ -45,19 +45,19 @@ North America](https://en.wikipedia.org/wiki/British_North_America). It is inclu
 
 ```
 wof:name="Kingdom of Yugoslavia"
-edtf:inception=1918
-edtf:cessation=1941
+edtf:inception="1918"
+edtf:cessation="1941"
 ```
 
 ```
 wof:name="Socialist Federal Republic of Yugoslavia"
-edtf:inception=1945-11-29
-edtf:cessation=1991-06~/1995-12~
+edtf:inception="1945-11-29"
+edtf:cessation="1991-06~/1995-12~"
 ```
 
 ```
 wof:name="Bosnia and Herzegovina"
-edtf:inception=1992-03~/1992-04~
+edtf:inception="1992-03~/1992-04~"
 ```
 
 ## See also
