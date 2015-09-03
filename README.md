@@ -64,6 +64,10 @@ _Note: As of this writing we do not actually have a WOF records for
 [Yugoslavia](https://en.wikipedia.org/wiki/Yugoslavia). They are included only
 as examples._
 
+## To consider
+
+`chartered` and `incorporated` as does TGN, for example: [Montreal](https://www.getty.edu/vow/TGNFullDisplay?find=Montreal&place=&nation=&prev_page=1&english=N&subjectid=7013051).
+
 ## See also
 
 * http://loc.gov/standards/datetime/
