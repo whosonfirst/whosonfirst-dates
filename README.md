@@ -15,7 +15,7 @@ code which is not ideal. On the other hand it is the most robust format, to
 date, for representing ambiguities in dates which is probably the more important
 criteria in the short-term.
 
-## Proposed
+## Currently
 
 ### edtf:inception
 
