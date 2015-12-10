@@ -68,6 +68,11 @@ as examples._
 
 ## See also
 
-* http://loc.gov/standards/datetime/
+### EDTF
 
+* http://loc.gov/standards/datetime/
 * https://github.com/ixc/python-edtf
+
+### CIDOC-CRM (temporal representation)
+
+* http://cidoc-crm.org/tools.html
