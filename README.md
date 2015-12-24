@@ -26,6 +26,10 @@ incorporation and – are left for another dicussion.
 An EDTF date string indicating when a place ceased to exist as a political
 entity or social construct in "popular" culture.
 
+### edtf:deprecated
+
+An EDTF date string indicating when a Who's On First record was officially deprecated, for example if the record references a place considered to be invalid.
+
 ### Examples
 
 #### British North America
