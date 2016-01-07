@@ -76,11 +76,12 @@ as examples._
 
 * http://loc.gov/standards/datetime/
 * https://github.com/ixc/python-edtf
+* http://digital2.library.unt.edu/edtf/
 
 ### ISO-8601 / RFC 3339
 
 * https://tools.ietf.org/html/rfc3339
-* 
+
 ### CIDOC-CRM (temporal representation)
 
 * https://github.com/whosonfirst/go-whosonfirst-temporal
