@@ -5,7 +5,7 @@ This is where we will think about time. Which is hard. Because it can not be den
 ## EDTF
 
 The decision to use the Library of Congress' [Extended Date/Time Format](http://loc.gov/standards/datetime/) (EDTF)
-for dates in Who's On First has not been formalize but it seems like a good
+for dates in Who's On First has not^H^H^H^H almost been formalized. Generally, it seems like a good
 idea.
 
 There are not many working implementations for handling EDTF date strings in
