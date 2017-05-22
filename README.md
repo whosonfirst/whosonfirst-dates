@@ -30,6 +30,10 @@ entity or social construct in "popular" culture.
 
 An EDTF date string indicating when a Who's On First record was officially deprecated, for example if the record references a place considered to be invalid.
 
+### edtf:superseded
+
+An EDTF date string indicating when a Who's On First record was superseded into another record. For example if the record was given an `edtf:cessation` date and superseded into another record, it would recieve this property.
+
 ### Examples
 
 #### British North America
